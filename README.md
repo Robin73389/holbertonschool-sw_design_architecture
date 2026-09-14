@@ -1,2 +1,1 @@
 # holbertonschool-sw_design_architecture
-# holbertonschool-sw_design_architecture
